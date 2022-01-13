@@ -1,6 +1,8 @@
 # I'm Trent - full-stack developer based in South Lake Tahoe, CA and am looking for new opportunities 👨‍💻
 Full-stack software engineer that specializes in front-end technologies like React, Angular, HTML, CSS, and Socket.io. I am very comfortable with back-end technologies like Node.js, Express, Koa, SQL and Mongo. 
 <br>
+
+
 In my spare time I snowboard, climb, play video games and spend time with my son.
 
 ## My Technologies
