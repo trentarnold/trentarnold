@@ -5,6 +5,11 @@ Full-stack software engineer that specializes in front-end technologies like Rea
 
 In my spare time I snowboard, climb, play video games and spend time with my son.
 
+## What I've been up to
+- 🔭 I’m currently working on making front-end improvements to [Movie Matcher](https://github.com/trentarnold/MovieMatcher) 
+- ⚡ I created a website that will randomly choose a restaurant near you [Indecisive Eater](https://github.com/trentarnold/indecisive-eater)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-trentarnold/)
+- 
 ## My Technologies
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="drawing" width="75"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt= "react" width ="75" /> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt= "CSS" width ="75" />
@@ -21,12 +26,12 @@ In my spare time I snowboard, climb, play video games and spend time with my son
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
