@@ -9,7 +9,7 @@ In my spare time I snowboard, climb, play video games and spend time with my son
 - 🔭 I’m currently working on making front-end improvements to [Movie Matcher](https://github.com/trentarnold/MovieMatcher) 
 - ⚡ I created a website that will randomly choose a restaurant near you [Indecisive Eater](https://github.com/trentarnold/indecisive-eater)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-trentarnold/)
-- 
+- 🌱 I’m currently learning next.js and Vue
 ## My Technologies
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="drawing" width="75"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt= "react" width ="75" /> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt= "CSS" width ="75" />
@@ -21,17 +21,4 @@ In my spare time I snowboard, climb, play video games and spend time with my son
 <img src="https://camo.githubusercontent.com/2717985f26463c118a5e93fd5ab74cbafe4dd5c9e9a9ca4bf2af249baf4d92a7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32392f506f737467726573716c5f656c657068616e742e7376672f3132303070782d506f737467726573716c5f656c657068616e742e7376672e706e67" alt= "PostgreSQL" width ="75" />
 <img src="https://camo.githubusercontent.com/07aa2b658522a1484d90bade21c57204955c2d64a307f5366108e13800ed7f5d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39362f536f636b65742d696f2e737667" alt= "Socket.io" width ="75" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt= "Git" width ="75" />
-<!--
-**trentarnold/trentarnold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
