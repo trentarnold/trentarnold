@@ -6,7 +6,7 @@ Full-stack software engineer that specializes in front-end technologies like Rea
 In my spare time I snowboard, climb, play video games and spend time with my son.
 
 ## What I've been up to
-- 🔭 I’m currently working on making front-end improvements to [Movie Matcher](https://github.com/trentarnold/MovieMatcher) 
+- 🔭 I’m currently working on making front-end improvements to [Movie Matcher](https://github.com/trentarnold/MovieMatcher/tree/Dev) 
 - ⚡ I created a website that will randomly choose a restaurant near you [Indecisive Eater](https://github.com/trentarnold/indecisive-eater)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-trentarnold/)
 - 🌱 I’m currently learning next.js and Vue
