@@ -1,5 +1,7 @@
 # I'm Trent - full-stack developer based in South Lake Tahoe, CA and am looking for new opportunities 👨‍💻
-Full-stack software engineer that specializes in front-end technologies like React, Angular, HTML, CSS, and Socket.io. I am very comfortable with back-end technologies like Node.js, Express, Koa, SQL and Mongo. 
+I am a driven Software Engineer with a diverse technical skillset and a focus on problem-solving and solution architecture. I have experience working with various front-end and back-end technologies, including React, Redux, Chakra UI, Angular, WebSockets (socket.io), Typescript, Node, Express, KOA, MongoDB, and SQL. In addition, I have experience with Python, PySpark, Palantir, and Amazon Web Services.
+
+I am passionate about coding because it offers a perfect balance of creativity and critical thinking. The ever-evolving nature of coding provides a constant learning opportunity, and I am always eager to dive into new technologies and expand my skillset.
 <br>
 
 
@@ -9,7 +11,7 @@ In my spare time I snowboard, climb, play video games and spend time with my son
 - 🔭 I’m currently working on making front-end improvements to [Movie Matcher](https://github.com/trentarnold/MovieMatcher/tree/Dev) 
 - ⚡ I created a website that will randomly choose a restaurant near you [Indecisive Eater](https://github.com/trentarnold/indecisive-eater)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-trentarnold/)
-- 🌱 I’m currently learning next.js and Vue
+- 🌱 I’m currently learning AWS
 ## My Technologies
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="drawing" width="75"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt= "react" width ="75" /> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt= "CSS" width ="75" />
